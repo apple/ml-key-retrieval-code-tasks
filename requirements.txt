@@ -1,0 +1,4 @@
+click==8.1.7
+transformers==4.40.0
+datasets==2.14.6
+
